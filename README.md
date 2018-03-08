@@ -20,5 +20,6 @@
 
 * Angular  
 
-  >Angular1： http://ngnice.com/
+  >Angular1： http://ngnice.com/  
+
   >Angular2.X： 
