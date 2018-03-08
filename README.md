@@ -1,18 +1,24 @@
 ﻿# 常用的资料链接
 
-* ICON
-阿里图标库： http://www.iconfont.cn/
-Ionicons： http://ionicons.com/
+* ICON  
 
-* CDN
+阿里图标库： http://www.iconfont.cn/  
+
+Ionicons： http://ionicons.com/  
+
+
+* CDN  
+
 http://www.bootcdn.cn/
 
-* Bootstrap
+* Bootstrap  
+
 http://www.bootcss.com/
 
-* CSS
+* CSS  
 
 
-* Angular
+* Angular  
+
 Angular1： http://ngnice.com/
 Angular2.X： 
