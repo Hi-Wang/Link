@@ -2,23 +2,23 @@
 
 * ICON  
 
-阿里图标库： http://www.iconfont.cn/  
+  >阿里图标库： http://www.iconfont.cn/  
 
-Ionicons： http://ionicons.com/  
+  >Ionicons： http://ionicons.com/  
 
 
 * CDN  
 
-http://www.bootcdn.cn/
+  >http://www.bootcdn.cn/
 
 * Bootstrap  
 
-http://www.bootcss.com/
+  >http://www.bootcss.com/
 
 * CSS  
 
 
 * Angular  
 
-Angular1： http://ngnice.com/
-Angular2.X： 
+  >Angular1： http://ngnice.com/
+  >Angular2.X： 
