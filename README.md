@@ -22,7 +22,7 @@
   >Angular1： http://ngnice.com/  
   >Angular2.X： https://segmentfault.com/blog/angular4 
 
-  >angular4视频 ：链接： https://pan.baidu.com/s/1yG6EMP4wNtJnP-62_kOTSQ    密码： 2mvy
+  >angular4视频 ：链接： https://pan.baidu.com/s/1yG6EMP4wNtJnP-62_kOTSQ    密码： 2mvy  
   >angular权威教程（pdf） ： 链接：https://pan.baidu.com/s/1YdJE8JUzIAbYIZ-7VVvvGw 密码：3l7s
 
 * NodeJs
