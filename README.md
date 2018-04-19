@@ -34,4 +34,7 @@
 
   >官方API    : http://mongoosejs.com/docs/guide.html  
   >中文文档   : https://mongoose.shujuwajue.com/
-                
+
+* Vue
+  > vue视频分享  
+  链接：https://pan.baidu.com/s/1okv6XGOV0K1giKg9Yx4wIQ 密码：z1ym       
